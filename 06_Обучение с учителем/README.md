@@ -44,3 +44,8 @@
 
 _____
   Стек технологий и инструментов:
+`pandas` `numpy` `pyplot` `train_test_split` `random` `shuffle`
+
+`StandardScaler` `OneHotEncoder` `DecisionTreeClassifier` `RandomForestClassifier`
+
+`LogisticRegression` `accuracy_score`, `f1_score` `roc_auc_score` `RandomizedSearchCV`
