@@ -47,6 +47,6 @@ _________________________________
 Стек технологий и инструментов:
 `pandas` `train_test_split` `mean_squared_error` 
 
-`seaborn` `pyplot` `numpy` `stats` `LinearRegression`
+`seaborn` `pyplot` `numpy` `stats` `LinearRegression` `bootstrap`
 
 ____________
