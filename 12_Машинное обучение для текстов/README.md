@@ -31,8 +31,8 @@ ___
  Стек технологий и инструментов:
  `pandas` `numpy` `seaborn` `pyplot` `stopwords` `nltk` 
  
-`WordNetLemmatizer` `word_tokenize` `WordCloud` `TfidfVectorizer` `CountVectorizer`
+ `WordCloud` `TfidfVectorizer` `CountVectorizer` `train_test_split`
  
- `train_test_split` `cross_val_score` `RandomizedSearchCV` `LogisticRegression` `SGDClassifier`
+ `cross_val_score` `RandomizedSearchCV` `LogisticRegression` `SGDClassifier`
  
  `DecisionTreeClassifier` `f1_score` `make_pipeline` `tqdm` `spacy` `poisson`
