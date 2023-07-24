@@ -15,14 +15,14 @@
   - [Введение в машинное обучение - *Project_05*](https://github.com/ArturKonovalov/Yandex.Practicum-DS-projects/blob/master/05_Введение%20в%20машинное%20обучение/05_telecom_tariffs.ipynb)
   - [Обучение с учителем - *Project_06*](https://github.com/ArturKonovalov/Yandex.Practicum-DS-projects/blob/master/06_Обучение%20с%20учителем/06_bank_churn_modeling.ipynb)
   - [Машинное обучение в бизнесе - *Project_07*](https://github.com/ArturKonovalov/Yandex.Practicum-DS-projects/blob/master/07_Машинное%20обучение%20в%20бизнесе/07.oil_industry_analytics.ipynb)
-  - [Сборный проект №2 - *Project_08*]()
-  - [Линейная алгебра - *Project_09*]()
-  - [Численные методы - *Project_10*]()
-  - [Временные ряды - *Project_11*]()
-  - [Машинное обучение для текстов - *Project_12*]()
-  - [SQL - *Project_13*]()
-  - [Компьютерное зрение - *Project_14*]()
-  - [**Дипломный проект**  - *Final_project 15*]()
+  - [Сборный проект №2 - *Project_08*](https://github.com/ArturKonovalov/Yandex.Practicum-DS-projects/blob/master/08_Сборный%20проект%20№2/08_gold_recovery%20.ipynb)
+  - [Линейная алгебра - *Project_09*](https://github.com/ArturKonovalov/Yandex.Practicum-DS-projects/blob/master/09_Линейная%20алгебра/09_data_protection.ipynb)
+  - [Численные методы - *Project_10*](https://github.com/ArturKonovalov/Yandex.Practicum-DS-projects/blob/master/10_Численные%20методы/10_car_pricing%20.ipynb)
+  - [Временные ряды - *Project_11*](https://github.com/ArturKonovalov/Yandex.Practicum-DS-projects/blob/master/11_Временные%20ряды/11_forecasting_taxi_orders%20.ipynb)
+  - [Машинное обучение для текстов - *Project_12*](https://github.com/ArturKonovalov/Yandex.Practicum-DS-projects/blob/master/12_Машинное%20обучение%20для%20текстов/12_toxic_comments.ipynb)
+  - [SQL - *Project_13*](https://github.com/ArturKonovalov/Yandex.Practicum-DS-projects/blob/master/13_SQL/13_SQL.sql)
+  - [Компьютерное зрение - *Project_14*](https://github.com/ArturKonovalov/Yandex.Practicum-DS-projects/blob/master/14_Компьютерное%20зрение/14_real_age_customers.ipynb)
+  - [**Дипломный проект**  - *Final_project 15*](https://github.com/ArturKonovalov/Yandex.Practicum-DS-projects/blob/master/15_Дипломный%20проект/15_diplom_telecom.ipynb)
 
 ## Проекты:
 
@@ -36,16 +36,16 @@
 |5   |[Классификаиция клиентов телеком компании](https://github.com/ArturKonovalov/Yandex.Practicum-DS-projects/blob/master/05_Введение%20в%20машинное%20обучение/05_telecom_tariffs.ipynb)|Необходимо построить систему, способную проанализировать поведение клиентов, давно не меняющих тарифные планы, и предложить пользователям новый тариф, отвечающий их предпочтениям.|`sklearn` `pandas` `Matplotlib` `Scikit-learn`| `Телеком`|
 |6   |[Прогнозирование оттока клиента Банка](https://github.com/ArturKonovalov/Yandex.Practicum-DS-projects/blob/master/06_Обучение%20с%20учителем/06_bank_churn_modeling.ipynb)|На основе данных из банка определить клиента, который может уйти.|`sklearn` `pandas` `numpy` `matplotlib`| `Бизнес` `Инвестиции` `Банковская сфера` `Кредитование`|
 |7   |[Определение наиболее выгодного региона нефтедобычи](https://github.com/ArturKonovalov/Yandex.Practicum-DS-projects/blob/master/07_Машинное%20обучение%20в%20бизнесе/07.oil_industry_analytics.ipynb)|На основе данных геологической разведки выбрать район добычи нефти, который принесёт наибольшую прибыль.|`sklearn` `scipy` `matplotlib` `plotly` `pandas` `numpy`| `Добывающие компании`|
-|8   |[Исследование технологического процесса очистки золота]()|Спрогнозировать концентрацию золота при проведении процесса очистки золота.|`sklearn` `matplotlib` `plotly` `pandas` `numpy` `исследовательский анализ`| `Промышленность`|
-|9   |[Защита данных клиентов страховой компании]()|Разработка модели анонимизации персональных данных.|`sklearn` `pandas` `numpy`| `Банковская сфера` `Интернет-сервисы` `Инвестиции` `Телеком`|
-|10  |[Построение модели определения стоимости автомобиля]()|Разработать систему рекомендации стоимости автомобиля на основе его описания.|`catboost` `lightgbm` `sklearn` `pandas` `numpy` `matplotlib` `plotly` `math` `time`| `Интернет-сервисы` `Интернет-магазины` `Бизнес`|
-|11  |[Прогнозирование количества заказов такси на следующий час]()|Разработка системы предсказания объема заказа.|`TimeSeriesSplit` `catboost` `lightgbm` `statsmodels` `sklearn` `pandas` `numpy` `matplotlib` `plotly` `math` `time`| `Бизнес` `Интернет-сервисы` `Стартапы`|
-|12  |[Обучение модели классификации комментариев]()|Определение токсичности комментарии.|`BERT` `spacy` `SVC` `pymystem3` `re` `sklearn` `pandas` `numpy` `matplotlib` `plotly` `math`| `Интернет-сервисы` `Стартапы`|
-|13  |[SQL](...)|
-|14  |[Обработка фотографий покупателя]()|Определение возраста по фотографии.|`Python` `Keras` `CV`| `Ритейл` `Оффлайн Бизнес`|
-|15  |[(Дипломный проект) Прогнозирование оттока клиентов оператора связи]()|Необходимо научиться с высокой точностью прогнозировать отток клиентов телеком-оператора. Это позволит своевременно предложить промокоды и бонусы и сохранить клиента.|`catboost` `sklearn` `seaborn` `matplotlib` `plotly` `pandas` `numpy` `math`|
-
-## Контакты
+|8   |[Исследование технологического процесса очистки золота](https://github.com/ArturKonovalov/Yandex.Practicum-DS-projects/blob/master/08_Сборный%20проект%20№2/08_gold_recovery%20.ipynb)|Спрогнозировать концентрацию золота при проведении процесса очистки золота.|`sklearn` `matplotlib` `plotly` `pandas` `numpy` `исследовательский анализ`| `Промышленность`|
+|9   |[Защита данных клиентов страховой компании](https://github.com/ArturKonovalov/Yandex.Practicum-DS-projects/blob/master/09_Линейная%20алгебра/09_data_protection.ipynb)|Разработка модели анонимизации персональных данных.|`sklearn` `pandas` `numpy`| `Банковская сфера` `Интернет-сервисы` `Инвестиции` `Телеком`|
+|10  |[Построение модели определения стоимости автомобиля](https://github.com/ArturKonovalov/Yandex.Practicum-DS-projects/blob/master/10_Численные%20методы/10_car_pricing%20.ipynb)|Разработать систему рекомендации стоимости автомобиля на основе его описания.|`catboost` `lightgbm` `sklearn` `pandas` `numpy` `matplotlib` `plotly` `math` `time`| `Интернет-сервисы` `Интернет-магазины` `Бизнес`|
+|11  |[Прогнозирование количества заказов такси на следующий час](https://github.com/ArturKonovalov/Yandex.Practicum-DS-projects/blob/master/11_Временные%20ряды/11_forecasting_taxi_orders%20.ipynb)|Разработка системы предсказания объема заказа.|`TimeSeriesSplit` `catboost` `lightgbm` `statsmodels` `sklearn` `pandas` `numpy` `matplotlib` `plotly` `math` `time`| `Бизнес` `Интернет-сервисы` `Стартапы`|
+|12  |[Обучение модели классификации комментариев](https://github.com/ArturKonovalov/Yandex.Practicum-DS-projects/blob/master/12_Машинное%20обучение%20для%20текстов/12_toxic_comments.ipynb)|Определение токсичности комментарии.|`BERT` `spacy` `SVC` `pymystem3` `re` `sklearn` `pandas` `numpy` `matplotlib` `plotly` `math`| `Интернет-сервисы` `Стартапы`|
+|13  |[SQL](https://github.com/ArturKonovalov/Yandex.Practicum-DS-projects/blob/master/13_SQL/13_SQL.sql)| Необходимо проанализировать данные о фондах и инвестициях и написать запросы к базе.| `sql`| - |
+|14  |[Обработка фотографий покупателя](https://github.com/ArturKonovalov/Yandex.Practicum-DS-projects/blob/master/14_Компьютерное%20зрение/14_real_age_customers.ipynb)|Определение возраста по фотографии.|`Python` `Keras` `CV`| `Ритейл` `Оффлайн Бизнес`|
+|15  |[(Дипломный проект) Прогнозирование оттока клиентов оператора связи](https://github.com/ArturKonovalov/Yandex.Practicum-DS-projects/blob/master/15_Дипломный%20проект/15_diplom_telecom.ipynb)|Необходимо научиться с высокой точностью прогнозировать отток клиентов телеком-оператора. Это позволит своевременно предложить промокоды и бонусы и сохранить клиента.|`catboost` `sklearn` `seaborn` `matplotlib` `plotly` `pandas` `numpy` `math`| `Телеком`|
+____
+## Контакты:
 
 - email: bbqbbhm@yandex.ru
 - TG @ArturAvaria
