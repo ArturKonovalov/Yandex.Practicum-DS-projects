@@ -5,25 +5,6 @@
 
 - Ссылка на курс: https://praktikum.yandex.ru/data-scientist/
 
-### Содержание:
-
-  - [Базовый Python - *Project_00*](https://github.com/ArturKonovalov/Yandex.Practicum-DS-projects/blob/master/00_Базовый%20Python/00_basic_python.ipynb)
-  - [Предобработка данных - *Project_01*](https://github.com/ArturKonovalov/Yandex.Practicum-DS-projects/blob/master/01_Предобработка%20данных/01_bank_data_preprocessing.ipynb)
-  - [Исследовательский анализ данных - *Project_02*](https://github.com/ArturKonovalov/Yandex.Practicum-DS-projects/blob/master/02_Исследовательский%20анализ%20данных/02_EDA.ipynb)
-  - [Статистический анализ данных - *Project_03*](https://github.com/ArturKonovalov/Yandex.Practicum-DS-projects/blob/master/03_Статистический%20анализ%20данных/03_statistical_analysis.ipynb)
-  - [Сборный проект №1 - *Project_04*](https://github.com/ArturKonovalov/Yandex.Practicum-DS-projects/blob/master/04_Сборный%20проект%20№1/04_Games_research%20.ipynb)
-  - [Введение в машинное обучение - *Project_05*](https://github.com/ArturKonovalov/Yandex.Practicum-DS-projects/blob/master/05_Введение%20в%20машинное%20обучение/05_telecom_tariffs.ipynb)
-  - [Обучение с учителем - *Project_06*](https://github.com/ArturKonovalov/Yandex.Practicum-DS-projects/blob/master/06_Обучение%20с%20учителем/06_bank_churn_modeling.ipynb)
-  - [Машинное обучение в бизнесе - *Project_07*](https://github.com/ArturKonovalov/Yandex.Practicum-DS-projects/blob/master/07_Машинное%20обучение%20в%20бизнесе/07.oil_industry_analytics.ipynb)
-  - [Сборный проект №2 - *Project_08*](https://github.com/ArturKonovalov/Yandex.Practicum-DS-projects/blob/master/08_Сборный%20проект%20№2/08_gold_recovery%20.ipynb)
-  - [Линейная алгебра - *Project_09*](https://github.com/ArturKonovalov/Yandex.Practicum-DS-projects/blob/master/09_Линейная%20алгебра/09_data_protection.ipynb)
-  - [Численные методы - *Project_10*](https://github.com/ArturKonovalov/Yandex.Practicum-DS-projects/blob/master/10_Численные%20методы/10_car_pricing%20.ipynb)
-  - [Временные ряды - *Project_11*](https://github.com/ArturKonovalov/Yandex.Practicum-DS-projects/blob/master/11_Временные%20ряды/11_forecasting_taxi_orders%20.ipynb)
-  - [Машинное обучение для текстов - *Project_12*](https://github.com/ArturKonovalov/Yandex.Practicum-DS-projects/blob/master/12_Машинное%20обучение%20для%20текстов/12_toxic_comments.ipynb)
-  - [SQL - *Project_13*](https://github.com/ArturKonovalov/Yandex.Practicum-DS-projects/blob/master/13_SQL/13_SQL.sql)
-  - [Компьютерное зрение - *Project_14*](https://github.com/ArturKonovalov/Yandex.Practicum-DS-projects/blob/master/14_Компьютерное%20зрение/14_real_age_customers.ipynb)
-  - [**Дипломный проект**  - *Final_project 15*](https://github.com/ArturKonovalov/Yandex.Practicum-DS-projects/blob/master/15_Дипломный%20проект/15_diplom_telecom.ipynb)
-
 ## Проекты:
 
 |№| Название | Задачи проекта | Стек технологий и навыки | Сферы деятельности |
