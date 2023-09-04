@@ -49,3 +49,17 @@ _____
 `StandardScaler` `OneHotEncoder` `DecisionTreeClassifier` `RandomForestClassifier`
 
 `LogisticRegression` `accuracy_score`, `f1_score` `roc_auc_score` `RandomizedSearchCV`
+____
+# Итоги исследования:
+* Для борьбы с дисбалансом использовали:
+  * downsampling
+  * указание параметра class_weight = `balanced` (остановились на этом методе)
+* Учитывая эти методы обучили, подобрали гиперпараметры и сравнили результаты у следующих моделей:
+  * Логистической регрессии
+  * Дерева решений
+  * Случайного леса
+ 
+* Лучшая модель `Случайный лес`, показатели:
+  * n_estimators = `95`
+  * max_depth = `12` 
+  * F1 = `0.6097`
