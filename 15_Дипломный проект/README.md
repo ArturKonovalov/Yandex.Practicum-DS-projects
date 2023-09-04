@@ -36,5 +36,28 @@ ___
   `roc_auc_score` `accuracy_score` `roc_curve` `plot_confusion_matrix`
   
   `train_test_split` `RandomizedSearchCV` `StandardScaler` `OneHotEncoder` 
-  
+
   `OrdinalEncoder` `LogisticRegression` `RandomForest` `LGBM` `CatBoost`
+  ____
+# Итоги исследования:
+* Обучены модели:
+  * Логистическая регрессия
+  * Случайный лес
+  * LightGBM
+  * CatBoost 
+* Лучшая модель - CatBoostClassifier:
+  * ROC-AUC на тестовой выборке: `0.8997`
+  * Accuracy: `0.9125`
+  * Гиперпараметры модели:
+    * loss_function: `CrossEntropy`
+    * learning_rate: `0.1`
+    * l2_leaf_reg: `5`
+    * iterations: `1000`
+    * eval_metric: `AUC`
+    * depth: `3`
+Для нее:
+  * Построили матрицу ошибок
+  * ROC-кривую
+  * Изучили важность признаков 
+
+   
