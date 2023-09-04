@@ -41,3 +41,9 @@ ___
 `RandomForestClassifier` `LogisticRegression`
 
 `dump` `accuracy_score` `f1_score` `pyplot` `DummyClassifier`
+
+___
+# Итоги исследования:
+Лучшая модель на тестовой выборке - `Случайный лес`, показатели:
+  * n_estimators = `178` 
+  * Accuracy: `0.8025`
